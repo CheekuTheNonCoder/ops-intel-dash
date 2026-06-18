@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+rapidfuzz
+xlsxwriter
+python-dateutil
+Pillow
+scipy
